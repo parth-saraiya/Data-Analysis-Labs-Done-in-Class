@@ -1,3 +1,5 @@
+## NOTE:- Download HTML files to view the project!!
+
 # Data-Analysis-Labs-Done-in-Class
 
 # A compilation of lab work done as groups with other stakeholders 
